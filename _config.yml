@@ -1,6 +1,6 @@
 name: Paardenarts Joost Hezemans
 favicon: null
-layout_spectrum: 0.7843139364849776
+layout_spectrum: 0
 typography_spectrum: 0.7733
 title: Paardenarts Joost Hezemans
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#010101'
+    - '#8a9ebf'
+    - '#ced9eb'
+    - '#889b1d'
+    - '#8d4214'
   brandStrength: 0.6722575144376606
   lightness: 0.8314457356464118
   saturation: 0.9788610520772636
